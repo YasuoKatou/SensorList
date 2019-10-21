@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">センサー情報</string>
+    <string name="view_title_01">コードネーム：</string>
+    <string name="view_title_02">リリース：</string>
+    <string name="view_title_03">SDK：</string>
+    <string name="view_title_04">セキュリティパッチ：</string>
+    <string name="view_title_05">センサーの一覧</string>
+    <string name="view_title_06">Androidの情報</string>
+</resources>
